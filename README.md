@@ -29,3 +29,10 @@ The primary source of Data used here is provided by DSA the Incubator Hub
   - Does the organsation pay mployees the minimum salary
 
 ### Data Analysis
+#### Statistics
+- Total Employees: 946
+- Total Salary paid: $71.92M
+- Average Salary: $73.70k
+
+## Key Insights by Dashboard Section
+
