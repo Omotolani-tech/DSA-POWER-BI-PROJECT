@@ -24,9 +24,9 @@ The primary source of Data used here is provided by DSA the Incubator Hub
 ### Exploratory Data Analysis
   EDA involved the exploring of the Data to answer some questions about the Data such as;
   - What is the gender distribution in the organisation
-  - what is the ratings based om gender
+  - what is the ratings based on gender
   - Is there a gender pay gap
-  - Does the organsation pay mployees the minimum salary
+  - Does the organsation pay employees the minimum salary
 
 ### Data Analysis
 #### Statistics
@@ -43,10 +43,30 @@ The primary source of Data used here is provided by DSA the Incubator Hub
    - The **Product Management** Department leads with highest employees
    - The **Legal** Department has the most males
    - The **Services** Department has the most females
-- Ratings: Females are more rated Very Good compared to males
+- Ratings:
+   - A higher number of males receive “Average” ratings than females.
+   - Females have slightly more “Good” and “Very Good” ratings, but fewer "Not Rated" entries, suggesting slightly better recognition/performance levels.
 
   ![Power bi project 2](https://github.com/user-attachments/assets/a61f784c-95fc-4e8a-916c-37ed93d026e1)
 
+ - Regional Salary Gap:
+     - Kaduna has the highest pay total (27M), followed by Abuja (25M) and Lagos (20M).
+     - Kaduna and Abuja also have the most employees below the minimum salary: Kaduna: 250 employees, Abuja: 238 employees, Lagos: 166 employees.
+Suggests potential inequality or underpayment issues affecting larger employee groups in these regions.
+
+
+## Recommendation
+- Enhance Data Collection
+   - Reduce “N/A” or missing gender values by encouraging voluntary disclosures.
+   - This will allow more precise analytics and informed equity actions.
+- Conduct Regular Pay Audits
+   - Implement transparent gender pay audits across all departments and regions.
+   - Adjust salaries to reflect equal pay for equal performance, roles, and experience
+- Region-Specific Compensation Strategy
+   - Investigate why Kaduna and Abuja have the most underpaid employees despite high total salaries.
+   - Review whether location-based bias or cost-of-living misalignment contributes to the inequality.
+- Create Gender Diversity Targets
+   - Set inclusion goals for departments with skewed gender distributions, especially in Legal, Product Management, and Sales.
+   - Encourage female recruitment in male-dominated units and vice versa.
+
   
-
-
