@@ -36,3 +36,17 @@ The primary source of Data used here is provided by DSA the Incubator Hub
 
 ## Key Insights by Dashboard Section
 
+![Power bi project 1](https://github.com/user-attachments/assets/b4332e7c-138e-4550-b3c7-e0b964af6ad7)
+
+- Demographics: Males are more than females with difference of 24 in the organisation
+- Department:
+   - The **Product Management** Department leads with highest employees
+   - The **Legal** Department has the most males
+   - The **Services** Department has the most females
+- Ratings: Females are more rated Very Good compared to males
+
+  ![Power bi project 2](https://github.com/user-attachments/assets/a61f784c-95fc-4e8a-916c-37ed93d026e1)
+
+  
+
+
